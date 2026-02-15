@@ -1,2 +1,2 @@
-# Student-Grade-Management-
+# Student-Grade-Management
 Grading System
