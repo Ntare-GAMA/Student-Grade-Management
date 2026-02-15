@@ -308,32 +308,32 @@ When recording your video demonstration, consider covering:
 
 ## Assignment Requirements Checklist
 
-### Functional Requirements ✅
-- ✅ **Add a Student** - Uses Dictionary<string, int> data structure
-- ✅ **Display all Students** - Both console and GUI with sorting
-- ✅ **Search for a Student** - Exact and partial name search with appropriate messages
-- ✅ **Calculate Average Grade** - Using LINQ Average() method
-- ✅ **Find Highest and Lowest Grades** - Using LINQ Max() and Min() methods
-- ✅ **Error Handling** - Comprehensive exception handling throughout
-- ✅ **Input Handling** - Keyboard input (console) + mouse/UI (Windows Forms)
-- ✅ **Additional Features** - Windows Forms UI with ALU theme + JSON persistence
+### Functional Requirements 
+-  **Add a Student** - Uses Dictionary<string, int> data structure
+-  **Display all Students** - Both console and GUI with sorting
+-  **Search for a Student** - Exact and partial name search with appropriate messages
+-  **Calculate Average Grade** - Using LINQ Average() method
+-  **Find Highest and Lowest Grades** - Using LINQ Max() and Min() methods
+-  **Error Handling** - Comprehensive exception handling throughout
+-  **Input Handling** - Keyboard input (console) + mouse/UI (Windows Forms)
+-  **Additional Features** - Windows Forms UI with ALU theme + JSON persistence
 
-### Technical Requirements ✅
-- ✅ **Appropriate data structures** - Dictionary, List
-- ✅ **Control flow statements** - if/else, loops (foreach, for), switch
-- ✅ **Functions for logical organization** - Multiple well-structured methods
-- ✅ **Exception handling** - try/catch blocks with specific exception types
-- ✅ **Structs and Enums** - StudentRecord struct, GradeCategory enum
-- ✅ **Best coding practices** - Clean code with comments and documentation
-- ✅ **Onscreen UI** - Full-featured Windows Forms application
+### Technical Requirements 
+-  **Appropriate data structures** - Dictionary, List
+-  **Control flow statements** - if/else, loops (foreach, for), switch
+-  **Functions for logical organization** - Multiple well-structured methods
+-  **Exception handling** - try/catch blocks with specific exception types
+-  **Structs and Enums** - StudentRecord struct, GradeCategory enum
+-  **Best coding practices** - Clean code with comments and documentation
+-  **Onscreen UI** - Full-featured Windows Forms application
 
 ### Bonus Features Implemented 🌟
-- ✅ **JSON File Persistence** - Automatic save/load functionality
-- ✅ **Partial Name Search** - Enhanced search capability
-- ✅ **Multiple Students with Same Grade** - Handles edge cases
-- ✅ **Student Count Tracking** - Real-time statistics
-- ✅ **Clear All Functionality** - Batch operations
-- ✅ **Comprehensive Documentation** - README, Quick Start, Video Guide, etc.
+-  **JSON File Persistence** - Automatic save/load functionality
+-  **Partial Name Search** - Enhanced search capability
+-  **Multiple Students with Same Grade** - Handles edge cases
+-  **Student Count Tracking** - Real-time statistics
+-  **Clear All Functionality** - Batch operations
+-  **Comprehensive Documentation** - README, Quick Start, Video Guide, etc.
 
 ## Contributing
 
